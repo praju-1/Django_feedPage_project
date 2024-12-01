@@ -74,3 +74,7 @@ project/
 
 Open your browser and navigate to:
 http://127.0.0.1:8000
+
+
+# Installing From requirements.txt
+pip install -r requirements.txt
