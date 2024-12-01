@@ -72,8 +72,9 @@ project/
 
 # Access the Application
 
-Open your browser and navigate to:
-http://127.0.0.1:8000
+Registration: http://127.0.0.1:8000/users/register/
+Login: http://127.0.0.1:8000/users/login/
+Feed: http://127.0.0.1:8000/feed/
 
 
 # Installing From requirements.txt
