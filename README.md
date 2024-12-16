@@ -41,7 +41,7 @@ This project is a Django-based feed application designed to mimic the functional
 - Displays the number of likes for each post and comment.
 
 # Folder Structure
-
+```
 project/
 │
 ├── feed/
@@ -55,7 +55,6 @@ project/
 │   ├── models.py
 │   ├── views.py
 │   ├── urls.py
-</br>
 │
 ├── users/
 │   ├── templates/
@@ -76,10 +75,11 @@ project/
 │
 ├── manage.py
 ├── static/
-│   │   ├── css/
-│   │   │   └── styles.css
+│   ├── css/
+│   │   └── styles.css
 ├── requirements.txt
 └── README.md
+```
 
 # Access the Application
 
