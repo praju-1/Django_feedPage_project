@@ -1,8 +1,10 @@
 # Django Feed Application
 This project is a Django-based feed application designed to mimic the functionality of a Facebook News Feed. It allows users to create messages, comment on posts, like posts and comments, and manage their own posts using CRUD operations.
 
-![Register Page](./images_pro/register_page.png)
 <img src="./images_pro/register_page.png" width="300"/>
+<img src="./images_pro/login_page.png" width="300"/>
+<img src="./images_pro/Feed_page.png" width="300"/>
+<img src="./images_pro/after_post.png" width="300"/>
 
 # Features
 1. User Authentication
