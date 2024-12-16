@@ -55,6 +55,7 @@ project/
 │   ├── models.py
 │   ├── views.py
 │   ├── urls.py
+</br>
 │
 ├── users/
 │   ├── templates/
@@ -82,9 +83,9 @@ project/
 
 # Access the Application
 
-Registration: http://127.0.0.1:8000/users/register/
-Login: http://127.0.0.1:8000/users/login/
-Feed: http://127.0.0.1:8000/feed/
+Registration: http://127.0.0.1:8000/users/register/ <br/>
+Login: http://127.0.0.1:8000/users/login/<br/>
+Feed: http://127.0.0.1:8000/feed/<br/>
 
 
 # Installing From requirements.txt
