@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-&f5&o%#9$im9b03_wl6kw_ezr1e=lopesdyq#p(0%smqay5))t
 DEBUG = True
 
 # ALLOWED_HOSTS = ['django-feedpage-project.onrender.com', '127.0.0.1']
-ALLOWED_HOSTS = ['django-feedpage-project.onrender.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 
 
