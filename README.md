@@ -87,6 +87,9 @@ Registration: http://127.0.0.1:8000/users/register/ <br/>
 Login: http://127.0.0.1:8000/users/login/<br/>
 Feed: http://127.0.0.1:8000/feed/<br/>
 
+## Live Demo
+
+You can view the live application here: [Live Demo](https://django-feedpage-project.onrender.com/users/register/)
 
 # Installing From requirements.txt
 pip install -r requirements.txt
