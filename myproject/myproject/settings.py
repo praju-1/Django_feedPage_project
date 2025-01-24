@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&f5&o%#9$im9b03_wl6kw_ezr1e=lopesdyq#p(0%smqay5))t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://django-feedpage-project.onrender.com', 'localhost']
 
 
 # Application definition
